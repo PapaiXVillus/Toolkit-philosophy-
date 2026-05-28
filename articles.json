@@ -1,0 +1,24 @@
+[
+    {
+        "id": "turning-fifty-between-two-worlds",
+        "title": "Turning Fifty Between Two Worlds",
+        "date": "2026-01-01",
+        "excerpt": "A reflection on identity, belonging, and the strange task of becoming oneself between cultures.",
+        "tags": ["Identity", "Belonging", "Brazil / Denmark"],
+        "platform": "Medium",
+        "originalUrl": "#",
+        "featured": true,
+        "content": "Article text goes here…"
+    },
+    {
+        "id": "the-modern-self",
+        "title": "The Modern Self",
+        "date": "2026-03-15",
+        "excerpt": "Exploring the tension between self-improvement and just being human in a hyperconnected world.",
+        "tags": ["Modern Life", "Critical Thinking", "Self-Improvement"],
+        "platform": "Substack",
+        "originalUrl": "#",
+        "featured": false,
+        "content": "Article text goes here…"
+    }
+]
